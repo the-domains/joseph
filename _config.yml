@@ -1,0 +1,23 @@
+name: joseph
+favicon: null
+layout_spectrum: 0.8943856505211443
+typography_spectrum: 0.4722677296958864
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.10969887278042734
+  lightness: 0.7598938022274524
+  saturation: 0.4993459484539926
+  rhythmicContrast: 0.7057189624756575
+purpose: []
